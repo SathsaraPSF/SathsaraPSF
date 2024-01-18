@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sathsara.psf99@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Fun fact **Call me as KID**
 
 ---
 
