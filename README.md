@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Tailwindcss,ReactJS,C++,SCSS**
+- 🌱 I’m currently learning **Tailwindcss,ReactJS,C#**
 
 - 📝 I regularly write articles on [https://sathsaraprogramming.blogspot.com/](https://sathsaraprogramming.blogspot.com/)
 
