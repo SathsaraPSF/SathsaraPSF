@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pasindu Sathsara</h1>
+<h1 align="center">Hi 👋, I'm W.P.S.Fernando</h1>
 <h3 align="center">Student at The Open University Of Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sathsarapsf&label=Profile%20views&color=0e75b6&style=flat" alt="sathsarapsf" /> </p>
